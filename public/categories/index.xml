@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>/categories/</link>
+    <link>adisetyop.github.io/blog/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="adisetyop.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Random</title>
-      <link>/categories/random/</link>
+      <link>adisetyop.github.io/blog/categories/random/</link>
       <pubDate>Sun, 17 Jun 2018 05:38:23 +0700</pubDate>
       
-      <guid>/categories/random/</guid>
+      <guid>adisetyop.github.io/blog/categories/random/</guid>
       <description></description>
     </item>
     

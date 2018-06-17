@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>adisetyop.github.io/blog/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 17 Jun 2018 05:38:23 +0700</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="adisetyop.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>/tags/hello-world/</link>
+      <link>adisetyop.github.io/blog/tags/hello-world/</link>
       <pubDate>Sun, 17 Jun 2018 05:38:23 +0700</pubDate>
       
-      <guid>/tags/hello-world/</guid>
+      <guid>adisetyop.github.io/blog/tags/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random</title>
-      <link>/tags/random/</link>
+      <link>adisetyop.github.io/blog/tags/random/</link>
       <pubDate>Sun, 17 Jun 2018 05:38:23 +0700</pubDate>
       
-      <guid>/tags/random/</guid>
+      <guid>adisetyop.github.io/blog/tags/random/</guid>
       <description></description>
     </item>
     
