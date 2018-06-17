@@ -1,0 +1,63 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+# SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "entropia"
+  subtitle    = "εντροπία"
+  copyright   = "© 2018"
+
+  cover       = "img/rhooph.jpg"
+  description = "Sains, teknologi, travel, kuliner dari buah pikiran acak Adisetyo Panduwirawan."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "adisetyop"
+  githubName = "adisetyop"
+  linkedinName = "adisetyo-panduwirawan-795b378b"
+  mediumName = ""
+
+  logo = "img/entropia.png"
+  orgName = "adisetyop"
+  # orgWebsite = "https://www.telematika.org"
+  # orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
+
+  author = "adisetyop"
+  authorAvatar = "img/me_400.png"
+  authorLocation = "Jakarta, ID"
+  authorWebsite = "https://adisetyop.github.io"
+  authorDescription = "Saintis dan tukang masak amatir"
+
+  pageNotFoundTitle = "404 - Laman yang kamu cari tidak ditemukan."
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Beranda"
+  url = "/"
+  weight = 200
+
+# [[menu.main]]
+#   name = "Go"
+#   url = "/tags/golang/"
+#   weight = 100
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 100
+
+
+

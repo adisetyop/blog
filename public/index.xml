@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Jun 2018 05:38:23 +0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Sun, 17 Jun 2018 05:38:23 +0700</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>Selamat datang di blog entropia!
+Ini adalah kali pertama gue berani nyoba develop (baca: kopas kode) website statik ala-ala dengan Hugo. Setelah kesekian kali usaha gue mau ngeblog tapi gagal mulu karena usaha dan daya juang yang kurang (alah). Mari kita mulai post pertama dengan tanya jawab saja ya!
+Ini blog bakal isi apaan ya? Gado-gado. Mungkin isinya bisa fisika, kodingan, matematika, statistika, atau bahkan bisa tentang kuliner, traveling, atau kehidupan sehari-hari (ceile).</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Sun, 17 Jun 2018 05:38:23 +0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
+    </item>
+    
+  </channel>
+</rss>
