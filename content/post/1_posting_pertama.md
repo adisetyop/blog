@@ -8,6 +8,7 @@ tags: ["Hello world","random"]
 categories: ["random"]
 image: "img/hello-world.jpg"
 authorAvatar: "img/me_400.jpg"
+comments: true
 
 ---
 

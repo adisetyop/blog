@@ -14,7 +14,8 @@ canonifyurls    = true
   cover       = "img/rhooph.jpg"
   description = "Sains, teknologi, travel, kuliner dari buah pikiran acak Adisetyo Panduwirawan."
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalyticsUserId = "UA-120966626-1"
+  disqusShortname = "entropia-id"
   customCSS = []
   RSSLink = ""
 
